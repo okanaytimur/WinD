@@ -1,0 +1,14 @@
+C:\Users\oaytimur\source\repos\wind\wind\bin\Release\net9.0\wind.exe
+C:\Users\oaytimur\source\repos\wind\wind\bin\Release\net9.0\wind.deps.json
+C:\Users\oaytimur\source\repos\wind\wind\bin\Release\net9.0\wind.runtimeconfig.json
+C:\Users\oaytimur\source\repos\wind\wind\bin\Release\net9.0\wind.dll
+C:\Users\oaytimur\source\repos\wind\wind\bin\Release\net9.0\wind.pdb
+C:\Users\oaytimur\source\repos\wind\wind\obj\Release\net9.0\wind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oaytimur\source\repos\wind\wind\obj\Release\net9.0\wind.AssemblyInfoInputs.cache
+C:\Users\oaytimur\source\repos\wind\wind\obj\Release\net9.0\wind.AssemblyInfo.cs
+C:\Users\oaytimur\source\repos\wind\wind\obj\Release\net9.0\wind.csproj.CoreCompileInputs.cache
+C:\Users\oaytimur\source\repos\wind\wind\obj\Release\net9.0\wind.dll
+C:\Users\oaytimur\source\repos\wind\wind\obj\Release\net9.0\refint\wind.dll
+C:\Users\oaytimur\source\repos\wind\wind\obj\Release\net9.0\wind.pdb
+C:\Users\oaytimur\source\repos\wind\wind\obj\Release\net9.0\wind.genruntimeconfig.cache
+C:\Users\oaytimur\source\repos\wind\wind\obj\Release\net9.0\ref\wind.dll
